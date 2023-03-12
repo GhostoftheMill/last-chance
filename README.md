@@ -8,11 +8,14 @@ This is a progressive web application (PWA) that allows users to create notes an
 
 ## Installation
 
+Clone the repository. Open a new terminal. Type npm i, then npm start. Conversely, click the link in the next section.
 
+## Deployed Link
 
-## Walk-through
+[Text Editor Link](https://last-chance.herokuapp.com/)
+<br>
 
-[Employee Tracker Walk-through Link](placeholder)
+[GitHub Repo](http://github.com/Ghostofthemill/last-chance)
 
 ## Creator
 
